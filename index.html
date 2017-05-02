@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta author="Arthur Ducoux, Lucas Dussouchaud">
+
+	<title>Movie Weather - La météo à travers le 7ème art</title>
+
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/3.0.2/normalize.css">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,700,900,500italic,400italic,300italic,500,300,100italic,100' rel='stylesheet' type='text/css'>
+
+	<link rel="icon" type="image/gif" href="favicon.gif">
+
+	<link rel="stylesheet" type="text/css" href="sweetalert.css">
+</head>
+<body>
+
+	<div class="loader"><img src="img/oval.svg" alt="loader_oval"></div>
+
+	<main>
+
+		<div class="select-country">
+
+			<div class="title">Movie Weather<span>.</span></div>
+		
+			<input id="city-input" type="text" name="city" maxlength="38" placeholder="Nom de la ville">
+
+			<button class="city-btn"></button>
+
+		</div>
+
+		<div class="vertical"></div>
+
+		<div class="weather-data">
+			
+		</div>
+
+	</main>
+
+	<!-- js files-->
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="sweetalert.min.js"></script>
+	<script src="https://rawgit.com/rafaelp/css_browser_selector/master/css_browser_selector.js"></script>
+	<script src="main.js"></script>
+	
+</body>
+</html>

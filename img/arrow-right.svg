@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#XMLID_15_);}
+	.st1{fill:none;stroke:#EEF1F8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#EEF1F8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#EEF1F8;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="XMLID_1703_">
+	<defs>
+		<rect id="XMLID_1704_" width="32" height="32"/>
+	</defs>
+	<clipPath id="XMLID_15_">
+		<use xlink:href="#XMLID_1704_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="XMLID_1705_" class="st0">
+		<g id="XMLID_1707_">
+			<polyline id="XMLID_1709_" class="st1" points="16,12 20,16 16,20 			"/>
+			<line id="XMLID_1708_" class="st2" x1="12" y1="16" x2="20" y2="16"/>
+		</g>
+		<circle id="XMLID_1706_" class="st3" cx="16" cy="16" r="13"/>
+	</g>
+</g>
+</svg>
