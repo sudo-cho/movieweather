@@ -163,7 +163,7 @@ $(document).ready(function() {
 
 			var city = $("input[name=city]").val();
 
-			$.getJSON( "http://api.openweathermap.org/data/2.5/weather?q="+ city +"&appid=0f5b22fadeb37f544bdc255a00008aea" , function( data ) {
+			$.getJSON( "https://api.openweathermap.org/data/2.5/weather?q="+ city +"&appid=0f5b22fadeb37f544bdc255a00008aea" , function( data ) {
 		    	
 		    	var list = {};
 
